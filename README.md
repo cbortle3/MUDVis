@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Multidimensional Data Visualization
 
-You can use the [editor on GitHub](https://github.com/cbortle3/mud-viz/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Project on BitBucket](https://bitbucket.org/ksumsswecapstonesp18team2/d3-site)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Your one-stop shop for data visualization and analysis.
 
-### Markdown
+## Data Analytics at a Glance
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Illustration of compuer with art and science tools surrounding](https://www.stockvault.net/data/2015/09/15/178241/preview16.jpg)
 
-```markdown
-Syntax highlighted code block
+After a single-step upload, your data is instantly transformed into information-rich graphs. Dive into the details of your data and see any outliers or "red flags" marked by the application. Explore your data on a per group or per person basis.
 
-# Header 1
-## Header 2
-### Header 3
+### Project origin
 
-- Bulleted
-- List
+MudViz was built to fulfill the requirements of:
 
-1. Numbered
-2. List
+SWE 7903 Capstone
 
-**Bold** and _Italic_ and `Code` text
+M.S. Software Engineering
 
-[Link](url) and ![Image](src)
-```
+Kennesaw State University
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### About
 
-### Jekyll Themes
+MudViz was built by:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cbortle3/mud-viz/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Chenoa Adams
 
-### Support or Contact
+Zahm Nwokah
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Courtney Reid | [LinkedIn](https://www.linkedin.com/in/courtney-reid-79443716/)
