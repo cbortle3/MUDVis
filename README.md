@@ -24,8 +24,8 @@ Kennesaw State University
 
 MudViz was built by:
 
-Chenoa Adams
+Chenoa Adams | <chenoaa@gmail.com>
 
-Zahm Nwokah
+Zahm Nwokah | <nwokahc@gmail.com>
 
 Courtney Reid | [LinkedIn](https://www.linkedin.com/in/courtney-reid-79443716/)
