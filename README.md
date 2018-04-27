@@ -4,6 +4,10 @@
 
 Your one-stop shop for data visualization and analysis.
 
+<iframe id="player" type="text/html" width="640" height="390"
+  src="http://www.youtube.com/embed/gQXguCAeEmQ?enablejsapi=1"
+  frameborder="0"></iframe>
+
 ## Data Analytics at a Glance
 
 ![Illustration of compuer with art and science tools surrounding](https://www.stockvault.net/data/2015/09/15/178241/preview16.jpg)
