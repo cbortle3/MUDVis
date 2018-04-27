@@ -4,9 +4,8 @@
 
 Your one-stop shop for data visualization and analysis.
 
-<iframe id="player" type="text/html" width="640" height="390"
-  src="http://www.youtube.com/embed/gQXguCAeEmQ?enablejsapi=1"
-  frameborder="0"></iframe>
+[![Intro video of MUDVis application](https://img.youtube.com/vi/gQXguCAeEmQ/0.jpg)](https://www.youtube.com/watch?v=gQXguCAeEmQ "MUDVis intro")
+
 
 ## Data Analytics at a Glance
 
