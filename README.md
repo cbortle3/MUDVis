@@ -16,7 +16,7 @@ After a single-step upload, your data is instantly transformed into information-
 
 <img src="https://raw.githubusercontent.com/cbortle3/MUDVis/master/img/graph_bt.png" data-canonical-src="https://raw.githubusercontent.com/cbortle3/MUDVis/master/img/graph_bt.png" width="843"  />
 
-<img src="https://raw.githubusercontent.com/cbortle3/MUDVis/master/img/graph_bmi.png" data-canonical-src="https://raw.githubusercontent.com/cbortle3/MUDVis/master/img/graph_bmi.png" height="198" /><img src="https://raw.githubusercontent.com/cbortle3/MUDVis/master/img/graph_hr.png" data-canonical-src="https://raw.githubusercontent.com/cbortle3/MUDVis/master/img/graph_hr.png" height="198" /><img src="https://raw.githubusercontent.com/cbortle3/MUDVis/master/img/graph_perf.png" data-canonical-src="https://raw.githubusercontent.com/cbortle3/MUDVis/master/img/graph_perf.png" height="198"  />
+<img src="https://raw.githubusercontent.com/cbortle3/MUDVis/master/img/graph_bmi.png" data-canonical-src="https://raw.githubusercontent.com/cbortle3/MUDVis/master/img/graph_bmi.png" height="190" /><img src="https://raw.githubusercontent.com/cbortle3/MUDVis/master/img/graph_hr.png" data-canonical-src="https://raw.githubusercontent.com/cbortle3/MUDVis/master/img/graph_hr.png" height="190" /><img src="https://raw.githubusercontent.com/cbortle3/MUDVis/master/img/graph_perf.png" data-canonical-src="https://raw.githubusercontent.com/cbortle3/MUDVis/master/img/graph_perf.png" height="190"  />
 
 <img src="https://raw.githubusercontent.com/cbortle3/MUDVis/master/img/graph_rr.png" data-canonical-src="https://raw.githubusercontent.com/cbortle3/MUDVis/master/img/graph_rr.png" width="843"  />
 
