@@ -5,6 +5,7 @@
 Your one-stop shop for data visualization and analysis.
 
 [![Intro video of MUDVis application](https://img.youtube.com/vi/gQXguCAeEmQ/0.jpg)](https://www.youtube.com/watch?v=gQXguCAeEmQ "MUDVis intro")
+[Intro video on YouTube](https://www.youtube.com/watch?v=gQXguCAeEmQ)
 
 ## Data Analytics at a Glance
 
